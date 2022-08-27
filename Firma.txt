@@ -1,0 +1,4 @@
+[Employee{salary='20000', firstName='Jan', lastName='Kowalski'}
+, Employee{salary='3400', firstName='Dominik', lastName='Gruby'}
+, Employee{salary='3400', firstName='Slawek', lastName='Roj'}
+]
